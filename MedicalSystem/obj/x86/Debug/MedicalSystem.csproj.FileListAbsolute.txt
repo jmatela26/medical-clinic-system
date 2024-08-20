@@ -1,0 +1,73 @@
+C:\Users\Clark Khent\Documents\Visual Studio 2010\Projects\MedicalSystem\MedicalSystem\bin\Debug\MedicalSystem.exe
+C:\Users\Clark Khent\Documents\Visual Studio 2010\Projects\MedicalSystem\MedicalSystem\bin\Debug\MedicalSystem.pdb
+C:\Users\Clark Khent\Documents\Visual Studio 2010\Projects\MedicalSystem\MedicalSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Clark Khent\Documents\Visual Studio 2010\Projects\MedicalSystem\MedicalSystem\obj\x86\Debug\MedicalSystem.FormAdmin.resources
+C:\Users\Clark Khent\Documents\Visual Studio 2010\Projects\MedicalSystem\MedicalSystem\obj\x86\Debug\MedicalSystem.FormClinicSystem.resources
+C:\Users\Clark Khent\Documents\Visual Studio 2010\Projects\MedicalSystem\MedicalSystem\obj\x86\Debug\MedicalSystem.FormLogin.resources
+C:\Users\Clark Khent\Documents\Visual Studio 2010\Projects\MedicalSystem\MedicalSystem\obj\x86\Debug\MedicalSystem.FormRegisterNurse.resources
+C:\Users\Clark Khent\Documents\Visual Studio 2010\Projects\MedicalSystem\MedicalSystem\obj\x86\Debug\MedicalSystem.FormRegisterS.resources
+C:\Users\Clark Khent\Documents\Visual Studio 2010\Projects\MedicalSystem\MedicalSystem\obj\x86\Debug\MedicalSystem.FormViewNurse.resources
+C:\Users\Clark Khent\Documents\Visual Studio 2010\Projects\MedicalSystem\MedicalSystem\obj\x86\Debug\MedicalSystem.FormViewStudents.resources
+C:\Users\Clark Khent\Documents\Visual Studio 2010\Projects\MedicalSystem\MedicalSystem\obj\x86\Debug\MedicalSystem.Invetory.resources
+C:\Users\Clark Khent\Documents\Visual Studio 2010\Projects\MedicalSystem\MedicalSystem\obj\x86\Debug\MedicalSystem.Properties.Resources.resources
+C:\Users\Clark Khent\Documents\Visual Studio 2010\Projects\MedicalSystem\MedicalSystem\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Clark Khent\Documents\Visual Studio 2010\Projects\MedicalSystem\MedicalSystem\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Clark Khent\Documents\Visual Studio 2010\Projects\MedicalSystem\MedicalSystem\obj\x86\Debug\MedicalSystem.exe
+C:\Users\Clark Khent\Documents\Visual Studio 2010\Projects\MedicalSystem\MedicalSystem\obj\x86\Debug\MedicalSystem.pdb
+F:\MedicalSystem\MedicalSystem\obj\x86\Debug\MedicalSystem.exe
+F:\MedicalSystem\MedicalSystem\obj\x86\Debug\MedicalSystem.pdb
+F:\MedicalSystem\MedicalSystem\bin\Debug\MedicalSystem.exe
+F:\MedicalSystem\MedicalSystem\bin\Debug\MedicalSystem.pdb
+F:\MedicalSystem\MedicalSystem\obj\x86\Debug\MedicalSystem.csprojResolveAssemblyReference.cache
+F:\MedicalSystem\MedicalSystem\obj\x86\Debug\MedicalSystem.FormAdmin.resources
+F:\MedicalSystem\MedicalSystem\obj\x86\Debug\MedicalSystem.FormClinicSystem.resources
+F:\MedicalSystem\MedicalSystem\obj\x86\Debug\MedicalSystem.FormLogin.resources
+F:\MedicalSystem\MedicalSystem\obj\x86\Debug\MedicalSystem.FormRegisterNurse.resources
+F:\MedicalSystem\MedicalSystem\obj\x86\Debug\MedicalSystem.FormRegisterS.resources
+F:\MedicalSystem\MedicalSystem\obj\x86\Debug\MedicalSystem.FormViewNurse.resources
+F:\MedicalSystem\MedicalSystem\obj\x86\Debug\MedicalSystem.FormViewStudents.resources
+F:\MedicalSystem\MedicalSystem\obj\x86\Debug\MedicalSystem.Invetory.resources
+F:\MedicalSystem\MedicalSystem\obj\x86\Debug\MedicalSystem.Properties.Resources.resources
+F:\MedicalSystem\MedicalSystem\obj\x86\Debug\MedicalSystem.csproj.GenerateResource.Cache
+C:\Users\acer_pc\Desktop\MedicalSystem\MedicalSystem\bin\Debug\MedicalSystem.exe
+C:\Users\acer_pc\Desktop\MedicalSystem\MedicalSystem\bin\Debug\MedicalSystem.pdb
+C:\Users\acer_pc\Desktop\MedicalSystem\MedicalSystem\obj\x86\Debug\MedicalSystem.FormAdmin.resources
+C:\Users\acer_pc\Desktop\MedicalSystem\MedicalSystem\obj\x86\Debug\MedicalSystem.FormClinicSystem.resources
+C:\Users\acer_pc\Desktop\MedicalSystem\MedicalSystem\obj\x86\Debug\MedicalSystem.FormLogin.resources
+C:\Users\acer_pc\Desktop\MedicalSystem\MedicalSystem\obj\x86\Debug\MedicalSystem.FormRegisterNurse.resources
+C:\Users\acer_pc\Desktop\MedicalSystem\MedicalSystem\obj\x86\Debug\MedicalSystem.FormRegisterS.resources
+C:\Users\acer_pc\Desktop\MedicalSystem\MedicalSystem\obj\x86\Debug\MedicalSystem.FormViewNurse.resources
+C:\Users\acer_pc\Desktop\MedicalSystem\MedicalSystem\obj\x86\Debug\MedicalSystem.FormViewStudents.resources
+C:\Users\acer_pc\Desktop\MedicalSystem\MedicalSystem\obj\x86\Debug\MedicalSystem.Invetory.resources
+C:\Users\acer_pc\Desktop\MedicalSystem\MedicalSystem\obj\x86\Debug\MedicalSystem.Properties.Resources.resources
+C:\Users\acer_pc\Desktop\MedicalSystem\MedicalSystem\obj\x86\Debug\MedicalSystem.csproj.GenerateResource.Cache
+C:\Users\acer_pc\Desktop\MedicalSystem\MedicalSystem\obj\x86\Debug\MedicalSystem.exe
+C:\Users\acer_pc\Desktop\MedicalSystem\MedicalSystem\obj\x86\Debug\MedicalSystem.pdb
+C:\Users\acer_pc\Desktop\MedicalSystem\MedicalSystem\obj\x86\Debug\MedicalSystem.csprojResolveAssemblyReference.cache
+E:\MedicalSystem\MedicalSystem\bin\Debug\MedicalSystem.exe
+E:\MedicalSystem\MedicalSystem\bin\Debug\MedicalSystem.pdb
+E:\MedicalSystem\MedicalSystem\obj\x86\Debug\MedicalSystem.FormAdmin.resources
+E:\MedicalSystem\MedicalSystem\obj\x86\Debug\MedicalSystem.FormClinicSystem.resources
+E:\MedicalSystem\MedicalSystem\obj\x86\Debug\MedicalSystem.FormLogin.resources
+E:\MedicalSystem\MedicalSystem\obj\x86\Debug\MedicalSystem.FormRegisterNurse.resources
+E:\MedicalSystem\MedicalSystem\obj\x86\Debug\MedicalSystem.FormRegisterS.resources
+E:\MedicalSystem\MedicalSystem\obj\x86\Debug\MedicalSystem.FormViewNurse.resources
+E:\MedicalSystem\MedicalSystem\obj\x86\Debug\MedicalSystem.FormViewStudents.resources
+E:\MedicalSystem\MedicalSystem\obj\x86\Debug\MedicalSystem.Invetory.resources
+E:\MedicalSystem\MedicalSystem\obj\x86\Debug\MedicalSystem.Properties.Resources.resources
+E:\MedicalSystem\MedicalSystem\obj\x86\Debug\MedicalSystem.csproj.GenerateResource.Cache
+E:\MedicalSystem\MedicalSystem\obj\x86\Debug\MedicalSystem.exe
+E:\MedicalSystem\MedicalSystem\obj\x86\Debug\MedicalSystem.pdb
+C:\Users\caze00\Desktop\MedicalSystem\MedicalSystem\obj\x86\Debug\MedicalSystem.exe
+C:\Users\caze00\Desktop\MedicalSystem\MedicalSystem\obj\x86\Debug\MedicalSystem.pdb
+C:\Users\caze00\Desktop\MedicalSystem\MedicalSystem\obj\x86\Debug\MedicalSystem.FormAdmin.resources
+C:\Users\caze00\Desktop\MedicalSystem\MedicalSystem\obj\x86\Debug\MedicalSystem.FormClinicSystem.resources
+C:\Users\caze00\Desktop\MedicalSystem\MedicalSystem\obj\x86\Debug\MedicalSystem.FormLogin.resources
+C:\Users\caze00\Desktop\MedicalSystem\MedicalSystem\obj\x86\Debug\MedicalSystem.FormRegisterNurse.resources
+C:\Users\caze00\Desktop\MedicalSystem\MedicalSystem\obj\x86\Debug\MedicalSystem.FormRegisterS.resources
+C:\Users\caze00\Desktop\MedicalSystem\MedicalSystem\obj\x86\Debug\MedicalSystem.Properties.Resources.resources
+C:\Users\caze00\Desktop\MedicalSystem\MedicalSystem\obj\x86\Debug\MedicalSystem.csproj.GenerateResource.Cache
+C:\Users\caze00\Desktop\MedicalSystem\MedicalSystem\bin\Debug\MedicalSystem.exe
+C:\Users\caze00\Desktop\MedicalSystem\MedicalSystem\bin\Debug\MedicalSystem.pdb
+D:\4th Term\CS128\MedicalSystem\MedicalSystem\obj\x86\Debug\MedicalSystem.exe
+D:\4th Term\CS128\MedicalSystem\MedicalSystem\obj\x86\Debug\MedicalSystem.pdb
