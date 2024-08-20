@@ -1,0 +1,39 @@
+Reggie
+
+Clemente
+12/12/12
+17
+Male
+21312312312
+asdasdsad
+sdasd
+
+
+
+
+
+
+
+
+
+
+Complain: zxc
+Assesment: asdaqweqweasdd
+ Remarks ListViewSubItem: {zxcxzcz}
+ Plan ListViewSubItem: {qwewqasd}
+Assesment: asdaqweqweasdd
+ Remarks ListViewSubItem: {zxcxzcz}
+ Plan ListViewSubItem: {qwewqasd}
+Assesment: asdaqweqweasdd
+ Remarks ListViewSubItem: {zxcxzcz}
+ Plan ListViewSubItem: {qwewqasd}
+Medicine: Benadryl
+ Quantity ListViewSubItem: {2}
+ Unit Cost ListViewSubItem: {6}
+Medicine: Benadryl
+ Quantity ListViewSubItem: {2}
+ Unit Cost ListViewSubItem: {6}
+Medicine: Benadryl
+ Quantity ListViewSubItem: {2}
+ Unit Cost ListViewSubItem: {6}
+Total Cost:

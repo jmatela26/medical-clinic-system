@@ -1,0 +1,288 @@
+Drew
+Naguit
+Mendoza
+1111111
+11111111
+m
+111111
+m
+mm
+m@
+nnn
+nnn
+222
+222
+nnn
+B
+222
+222
+222
+asd
+asd
+ListViewSubItem: {asd}
+ListViewSubItem: {qwe}
+Antibiotic
+ListViewSubItem: {Antibiotic}
+ListViewSubItem: {2}
+Ulo
+Ulo
+ListViewSubItem: {Ulo}
+ListViewSubItem: {Ulo}
+Advil
+ListViewSubItem: {Advil}
+ListViewSubItem: {1}
+ULO
+ULO
+ListViewSubItem: {ULO}
+ListViewSubItem: {ULO}
+Advil
+ListViewSubItem: {Advil}
+ListViewSubItem: {1}
+ULO
+1
+ListViewSubItem: {1}
+ListViewSubItem: {ULO}
+Benadryl
+ListViewSubItem: {Benadryl}
+ListViewSubItem: {1}
+ULO
+ULO
+ListViewSubItem: {ULO}
+ListViewSubItem: {ULO}
+ULO
+ListViewSubItem: {ULO}
+ListViewSubItem: {ULO}
+ULO
+ListViewSubItem: {ULO}
+ListViewSubItem: {ULO}
+ULO
+ListViewSubItem: {ULO}
+ListViewSubItem: {ULO}
+Advil
+ListViewSubItem: {Advil}
+ListViewSubItem: {2}
+Neozep
+ListViewSubItem: {Neozep}
+ListViewSubItem: {2}
+Advil
+ListViewSubItem: {Advil}
+ListViewSubItem: {2}
+Complain: hmm
+Assesment: HMM
+Remarks		ListViewSubItem: {HMm}
+Plan		ListViewSubItem: {Hmm}
+Assesment: HMM
+Remarks		ListViewSubItem: {HMm}
+Plan		ListViewSubItem: {Hmm}
+Medicine:		Benadryl
+Quantity		ListViewSubItem: {2}
+Unit Cost		ListViewSubItem: {6}
+Medicine:		Biogesic
+Quantity		ListViewSubItem: {3}
+Unit Cost		ListViewSubItem: {8}
+Total Cost:24
+Complain: xzcv
+Assesment: we
+	Remarks	ListViewSubItem: {asd}
+	Plan	ListViewSubItem: {qwe}
+Assesment: we
+	Remarks	ListViewSubItem: {asd}
+	Plan	ListViewSubItem: {qwe}
+Medicine:		Biogesic
+	Quantity	ListViewSubItem: {3}
+	Unit Cost	ListViewSubItem: {8}
+Medicine:		Benadryl
+	Quantity	ListViewSubItem: {2}
+	Unit Cost	ListViewSubItem: {6}
+Total Cost:12
+Complain: hmm
+Assesment: HMM
+ Remarks ListViewSubItem: {HMM}
+ Plan ListViewSubItem: {Hmm}
+Assesment: HMM
+ Remarks ListViewSubItem: {HMM}
+ Plan ListViewSubItem: {Hmm}
+Medicine: Advil
+ Quantity ListViewSubItem: {2}
+ Unit Cost ListViewSubItem: {7}
+Medicine: Biogesic
+ Quantity ListViewSubItem: {3}
+ Unit Cost ListViewSubItem: {8}
+Total Cost:24
+Complain: ulo
+Assesment: masakit
+ Remarks ListViewSubItem: {pahinga}
+ Plan ListViewSubItem: {pahinga}
+Assesment: masakit
+ Remarks ListViewSubItem: {tulog}
+ Plan ListViewSubItem: {pahinga}
+Medicine: Biogesic
+ Quantity ListViewSubItem: {3}
+ Unit Cost ListViewSubItem: {8}
+Medicine: Biogesic
+ Quantity ListViewSubItem: {2}
+ Unit Cost ListViewSubItem: {8}
+Total Cost:
+Complain: ULo
+Assesment: ULO
+ Remarks ListViewSubItem: {ULO}
+ Plan ListViewSubItem: {ULO}
+Assesment: ULO
+ Remarks ListViewSubItem: {11}
+ Plan ListViewSubItem: {ULO}
+Assesment: ULO
+ Remarks ListViewSubItem: {ULO}
+ Plan ListViewSubItem: {ULO}
+Assesment: ULO
+ Remarks ListViewSubItem: {ULO}
+ Plan ListViewSubItem: {ULO}
+Assesment: ULO
+ Remarks ListViewSubItem: {ULO}
+ Plan ListViewSubItem: {ULO}
+Assesment: ULO
+ Remarks ListViewSubItem: {ULO}
+ Plan ListViewSubItem: {ULO}
+Medicine: Advil
+ Quantity ListViewSubItem: {3}
+ Unit Cost ListViewSubItem: {7}
+Medicine: Advil
+ Quantity ListViewSubItem: {2}
+ Unit Cost ListViewSubItem: {7}
+Total Cost:14
+Complain: 
+Medicine: Lagundi
+ Quantity ListViewSubItem: {5}
+ Unit Cost ListViewSubItem: {25}
+Complain: 
+Medicine: Benadryl
+ Quantity ListViewSubItem: {2}
+ Unit Cost ListViewSubItem: {14}
+Medicine: Benadryl
+ Quantity ListViewSubItem: {2}
+ Unit Cost ListViewSubItem: {14}
+Medicine: Benadryl
+ Quantity ListViewSubItem: {2}
+ Unit Cost ListViewSubItem: {14}
+Complain: 
+Medicine: Advil
+ Quantity ListViewSubItem: {2}
+ Unit Cost ListViewSubItem: {12}
+Medicine: Advil
+ Quantity ListViewSubItem: {2}
+ Unit Cost ListViewSubItem: {12}
+Medicine: Advil
+ Quantity ListViewSubItem: {2}
+ Unit Cost ListViewSubItem: {12}
+Medicine: Advil
+ Quantity ListViewSubItem: {2}
+ Unit Cost ListViewSubItem: {12}
+Complain: 
+Medicine: Neozep
+ Quantity ListViewSubItem: {2}
+ Unit Cost ListViewSubItem: {10}
+Medicine: Neozep
+ Quantity ListViewSubItem: {2}
+ Unit Cost ListViewSubItem: {10}
+Medicine: Neozep
+ Quantity ListViewSubItem: {2}
+ Unit Cost ListViewSubItem: {10}
+Complain: 
+Medicine: Biogesic
+ Quantity ListViewSubItem: {2}
+ Unit Cost ListViewSubItem: {10}
+Medicine: Biogesic
+ Quantity ListViewSubItem: {2}
+ Unit Cost ListViewSubItem: {10}
+Medicine: Biogesic
+ Quantity ListViewSubItem: {2}
+ Unit Cost ListViewSubItem: {10}
+Complain: 
+Medicine: Advil
+ Quantity ListViewSubItem: {22}
+ Unit Cost ListViewSubItem: {132}
+Medicine: Advil
+ Quantity ListViewSubItem: {22}
+ Unit Cost ListViewSubItem: {132}
+Medicine: Advil
+ Quantity ListViewSubItem: {22}
+ Unit Cost ListViewSubItem: {132}
+Medicine: Advil
+ Quantity ListViewSubItem: {22}
+ Unit Cost ListViewSubItem: {132}
+Medicine: Advil
+ Quantity ListViewSubItem: {22}
+ Unit Cost ListViewSubItem: {132}
+Complain: 
+Medicine: Antibiotic
+ Quantity ListViewSubItem: {2}
+ Unit Cost ListViewSubItem: {30}
+Medicine: Antibiotic
+ Quantity ListViewSubItem: {2}
+ Unit Cost ListViewSubItem: {30}
+Medicine: Antibiotic
+ Quantity ListViewSubItem: {2}
+ Unit Cost ListViewSubItem: {30}
+Medicine: Antibiotic
+ Quantity ListViewSubItem: {2}
+ Unit Cost ListViewSubItem: {30}
+Complain: 
+Medicine: Neozep
+ Quantity ListViewSubItem: {2}
+ Unit Cost ListViewSubItem: {10}
+Medicine: Neozep
+ Quantity ListViewSubItem: {2}
+ Unit Cost ListViewSubItem: {10}
+Medicine: Neozep
+ Quantity ListViewSubItem: {2}
+ Unit Cost ListViewSubItem: {10}
+Medicine: Neozep
+ Quantity ListViewSubItem: {2}
+ Unit Cost ListViewSubItem: {10}
+Complain: 
+Medicine: Benadryl
+ Quantity ListViewSubItem: {2}
+ Unit Cost ListViewSubItem: {14}
+Medicine: Benadryl
+ Quantity ListViewSubItem: {2}
+ Unit Cost ListViewSubItem: {14}
+Medicine: Benadryl
+ Quantity ListViewSubItem: {2}
+ Unit Cost ListViewSubItem: {14}
+Medicine: Benadryl
+ Quantity ListViewSubItem: {2}
+ Unit Cost ListViewSubItem: {14}
+Complain: 
+Medicine: Benadryl
+ Quantity ListViewSubItem: {2}
+ Unit Cost ListViewSubItem: {14}
+Medicine: Benadryl
+ Quantity ListViewSubItem: {2}
+ Unit Cost ListViewSubItem: {14}
+Medicine: Benadryl
+ Quantity ListViewSubItem: {2}
+ Unit Cost ListViewSubItem: {14}
+Medicine: Benadryl
+ Quantity ListViewSubItem: {2}
+ Unit Cost ListViewSubItem: {14}
+Medicine: Benadryl
+ Quantity ListViewSubItem: {2}
+ Unit Cost ListViewSubItem: {14}
+Medicine: Benadryl
+ Quantity ListViewSubItem: {2}
+ Unit Cost ListViewSubItem: {14}
+Medicine: Benadryl
+ Quantity ListViewSubItem: {2}
+ Unit Cost ListViewSubItem: {14}
+Medicine: Benadryl
+ Quantity ListViewSubItem: {2}
+ Unit Cost ListViewSubItem: {14}
+Complain: 
+Medicine: Biogesic
+ Quantity ListViewSubItem: {2}
+ Unit Cost ListViewSubItem: {10}
+Medicine: Biogesic
+ Quantity ListViewSubItem: {2}
+ Unit Cost ListViewSubItem: {10}
+Medicine: Biogesic
+ Quantity ListViewSubItem: {2}
+ Unit Cost ListViewSubItem: {10}

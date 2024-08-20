@@ -1,0 +1,84 @@
+Drew
+Naguit
+Mendoza
+9/24/97
+17
+Male
+09179351800
+Filipino
+BSIT
+***#yahoo.com
+Jeaneth Mendoza
+Mother
+
+09324339890
+Apalit
+AB
+213
+123
+213
+ Typhoid Whooping coughasdasdasd
+ListViewSubItem: {aa}
+ListViewSubItem: {aaa}
+ListViewSubItem: {aaaa}
+asdasdasd
+ListViewSubItem: {aa}
+ListViewSubItem: {aaa}
+ListViewSubItem: {aaaa}
+asdasdasd
+ListViewSubItem: {aa}
+ListViewSubItem: {aaa}
+ListViewSubItem: {aaaa}
+xcxcxc
+ListViewSubItem: {xcxxz}
+ListViewSubItem: {vxcxzzx}
+ListViewSubItem: {zxxzvz}
+xxzzxzxczxczxc
+1111
+as
+1
+xxzzxzxczxczxc
+1111
+as
+1
+asd
+asdf
+wdsadas
+qwer
+zzxczxc
+ULO
+ULO
+ListViewSubItem: {ULO}
+ListViewSubItem: {ULO}
+ULO
+ListViewSubItem: {ULO}
+ListViewSubItem: {ULO}
+Lagundi
+ListViewSubItem: {Lagundi}
+ListViewSubItem: {2}
+Advil
+ListViewSubItem: {Advil}
+ListViewSubItem: {1}
+txtMedicine.Text = medName.Text;
+            txtTotalQuantity.Text = txtQuantity.Text;
+txtMedicine.Text = medName.Text;
+            txtTotalQuantity.Text = txtQuantity.Text;
+ListViewSubItem: {txtMedicine.Text = medName.Text;
+            txtTotalQuantity.Text = txtQuantity.Text;}
+ListViewSubItem: {txtMedicine.Text = medName.Text;
+            txtTotalQuantity.Text = txtQuantity.Text;}
+Benadryl
+ListViewSubItem: {Benadryl}
+ListViewSubItem: {2}
+Antibiotic
+ListViewSubItem: {Antibiotic}
+ListViewSubItem: {3}
+ulo
+Complain: ULO
+Assesment: ulo
+RemarksListViewSubItem: {ULo}
+PlanListViewSubItem: {Ulo}
+Medicine:Benadryl
+QuantityListViewSubItem: {3}
+Unit CostListViewSubItem: {6}
+Total Cost:18
